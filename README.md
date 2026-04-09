@@ -1,7 +1,7 @@
-# Coding-Generation-Project
+# Coding-Generation-Project 🦾
 
 ## Predictive Maintenance Using Machine Learning
-A supervised classification project using the AI4I 2020 Predictive Maintenance dataset. 🦾
+A supervised classification project using the AI4I 2020 Predictive Maintenance dataset. 
 
 ## Overview
 This project investigates predictive maintenance as a machine learning task. The aim is to predict whether an industrial machine will fail using sensor readings and engineered features derived from the AI4I 2020 Predictive Maintenance dataset.
