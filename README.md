@@ -76,7 +76,13 @@ Claude and ChatGPT both generated functional code, but the outputs required care
 
 ## Repository Structure
 ```text
-.
+
 ├── ChatGPT/
+│   ├── Initial
+│   └── Final
+│ 
 ├── Claude/
-├── README.md
+│   ├── Initial
+│   └── Final
+│   
+└── README.md
