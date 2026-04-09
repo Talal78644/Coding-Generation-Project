@@ -78,11 +78,14 @@ Claude and ChatGPT both generated functional code, but the outputs required care
 ```text
 
 ├── ChatGPT/
-│   ├── Initial
-│   └── Final
-│ 
+│   ├── initial/
+│   │   └── naive_bayes_ChatGPT.py
+│   └── final/
+│       └── predictive_maintenance_ChatGPT...
 ├── Claude/
-│   ├── Initial
-│   └── Final
-│   
+│   ├── initial/
+│   │   └── naive_bayes_Claude.py
+│   └── final/
+│       └── predictive_maintenance_Claude...
 └── README.md
+
